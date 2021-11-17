@@ -28,7 +28,8 @@
  
 </pre>
  
-### install ###
+### install && run ###
   <code>
-fgfgf
+    https://github.com/Hackermts3113/webexterminator.git
+    cd webexterminator
 </code>
