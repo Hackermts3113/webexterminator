@@ -29,3 +29,6 @@
 </pre>
  
 ### install ###
+  <code>
+fgfgf
+</code>
