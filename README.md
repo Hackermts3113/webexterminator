@@ -31,6 +31,6 @@
 ### install && run ###
   <code>
     https://github.com/Hackermts3113/webexterminator.git
-    \n
+  
     cd webexterminator
 </code>
