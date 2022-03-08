@@ -52,8 +52,10 @@
  [7] Bypass CloudFlare          
  ***************************** 
 **_in DDOSER part_**
+ *****************************
   DDOS attack
 **_in wordpress part_**
+  **************************
   [1] users website
   *************************
   [2] Plugins website
