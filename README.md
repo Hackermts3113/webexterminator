@@ -29,8 +29,8 @@
 </pre>
  
 ### install && run ###
-   git clone https://github.com/Hackermts3113/webexterminator.git
-   cd webexterminator
-   cd webexterminator 
-   pip install -r requirements.txt
-   python3 webexterminator.py
+   * git clone https://github.com/Hackermts3113/webexterminator.git
+   * cd webexterminator
+   * cd webexterminator 
+   * pip install -r requirements.txt
+   * python3 webexterminator.py
