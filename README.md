@@ -35,7 +35,8 @@
    * pip install -r requirements.txt
    * python3 webexterminator.py
 ### use ###
-_in information part_
+**_in information part_**
+ *****************************
  [1] Website location
  *****************************
  [2] Admin page finder
@@ -50,9 +51,9 @@ _in information part_
  *****************************
  [7] Bypass CloudFlare          
  ***************************** 
-_in DDOSER part_
+**_in DDOSER part_**
   DDOS attack
-_in wordpress part_
+**_in wordpress part_**
   [1] users website
   *************************
   [2] Plugins website
