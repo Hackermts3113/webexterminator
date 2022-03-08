@@ -30,9 +30,9 @@
  
 ### install && run ###
   <code>
-  git clone https://github.com/Hackermts3113/webexterminator.git
-  cd webexterminator
-  cd webexterminator 
-  pip install -r requirements.txt
-  python3 webexterminator.py
+  1.git clone https://github.com/Hackermts3113/webexterminator.git
+  2.cd webexterminator
+  3.cd webexterminator 
+  4.pip install -r requirements.txt
+  5.python3 webexterminator.py
 </code>
