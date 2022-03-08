@@ -244,7 +244,7 @@ def Informationgathering():
     time.sleep(0.1)
     print(Fore.LIGHTBLUE_EX+"*****************************")
     time.sleep(0.1)
-    print(Fore.LIGHTWHITE_EX+"[9] back") 
+    print(Fore.LIGHTWHITE_EX+"[8] back") 
     print(Fore.RED+" _____"+Fore.GREEN+"["+Fore.WHITE+"webexterminator"+Fore.LIGHTBLUE_EX+"$HOME"+Fore.LIGHTCYAN_EX+"#Information Gathering"+Fore.GREEN+"]"+Fore.RED)
 
     user_s = input("|_______.::[ ")
