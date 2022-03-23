@@ -1,7 +1,5 @@
 colorama
-platform
 requests
-time
 builtwith
 ipapi
 whois
